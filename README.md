@@ -1,4 +1,4 @@
-# TweetX – A Twitter Clone
+# Swiftly – A Twitter Clone
 
 TweetX is a full-stack Twitter clone built with **Next.js 15**, **MongoDB**, and **Tailwind CSS**. Users can post tweets, like, bookmark, and view others' tweets in real time with a clean and responsive UI.
 
